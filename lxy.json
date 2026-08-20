@@ -5,12 +5,12 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Createitv/agent-for-app/releases/download/lxy/v0.1.0/lxy_0.1.0_windows_amd64.zip",
-      "hash": "3ba9caad4872c3f069919a87e5194c2e5971b81576e99d92a30d2b260866ef57"
+      "url": "https://github.com/Createitv/lxy-releases/releases/download/lxy-v0.1.0/lxy_0.1.0_windows_amd64.zip",
+      "hash": "0ce6232f290cf774262e09cead36df9654a0e35047a83cf4ecbe812b3a803dd7"
     },
     "arm64": {
-      "url": "https://github.com/Createitv/agent-for-app/releases/download/lxy/v0.1.0/lxy_0.1.0_windows_arm64.zip",
-      "hash": "c9264a5e9ee2c9b84c0c103a6de29c189c8c86a10f98ec1218f19393ca8f8740"
+      "url": "https://github.com/Createitv/lxy-releases/releases/download/lxy-v0.1.0/lxy_0.1.0_windows_arm64.zip",
+      "hash": "2ae896a81b82d76a809956ed5abf79d0149627f2b9356e1e8625ed5957c5faca"
     }
   },
   "bin": "lxy.exe"
