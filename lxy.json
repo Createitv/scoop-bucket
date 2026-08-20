@@ -1,0 +1,17 @@
+{
+  "version": "0.1.0",
+  "description": "LingXiaoYao public knowledge terminal",
+  "homepage": "https://cli.lingxiaoyao.cn",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/Createitv/agent-for-app/releases/download/lxy/v0.1.0/lxy_0.1.0_windows_amd64.zip",
+      "hash": "3ba9caad4872c3f069919a87e5194c2e5971b81576e99d92a30d2b260866ef57"
+    },
+    "arm64": {
+      "url": "https://github.com/Createitv/agent-for-app/releases/download/lxy/v0.1.0/lxy_0.1.0_windows_arm64.zip",
+      "hash": "c9264a5e9ee2c9b84c0c103a6de29c189c8c86a10f98ec1218f19393ca8f8740"
+    }
+  },
+  "bin": "lxy.exe"
+}
