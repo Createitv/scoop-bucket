@@ -1,23 +1,15 @@
 {
-  "version": "0.1.0",
-  "description": "AppGallery Connect CLI command center",
-  "homepage": "https://agccli.app/",
-  "license": "MIT",
-  "architecture": {
-    "64bit": {
-      "url": "https://github.com/Createitv/agc-cli/releases/download/v0.1.0/agc-cli_0.1.0_windows_amd64.zip",
-      "hash": "5f7802e6050fda8d118d0ebe5a6729774fa317613ad6bfc3d73f59815a29b677",
-      "bin": "agc.exe"
-    }
-  },
-  "checkver": {
-    "github": "https://github.com/Createitv/agc-cli"
-  },
-  "autoupdate": {
+    "version": "0.2.0",
     "architecture": {
-      "64bit": {
-        "url": "https://github.com/Createitv/agc-cli/releases/download/v$version/agc-cli_$version_windows_amd64.zip"
-      }
-    }
-  }
+        "64bit": {
+            "url": "https://github.com/Createitv/agc-cli/releases/download/v0.2.0/agc-cli_0.2.0_windows_amd64.zip",
+            "bin": [
+                "agc.exe"
+            ],
+            "hash": "965d09ee6eedd9e2f9ab2efe57a0f389d1fd422c948a7e0c4844881554084135"
+        }
+    },
+    "homepage": "https://agccli.app/",
+    "license": "MIT",
+    "description": "AppGallery Connect CLI command center"
 }
