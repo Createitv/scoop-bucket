@@ -1,12 +1,12 @@
 {
-    "version": "0.3.1",
+    "version": "0.3.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Createitv/agc-cli/releases/download/v0.3.1/agc-cli_0.3.1_windows_amd64.zip",
+            "url": "https://github.com/Createitv/agc-cli/releases/download/v0.3.2/agc-cli_0.3.2_windows_amd64.zip",
             "bin": [
                 "agc.exe"
             ],
-            "hash": "062627f57404d7a9cc76d957fbded865c68d1285f993faa17a30d46246d07ca2"
+            "hash": "c636e1e7c8285c94b16b0d4c6d69d02d2c381a6250f776998f21deb52c57a3cd"
         }
     },
     "homepage": "https://agccli.app/",
